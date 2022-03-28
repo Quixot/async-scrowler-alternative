@@ -1,0 +1,165 @@
+Array
+(
+    [https://rozetka.com.ua/ua/search/?class=0&text=AEG&section_id=80025&view=tile&producer=202&sort=expensive&price=200-5000&page=] => Array
+        (
+            [0] => AEG
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Aurora&section_id=2394287&producer=263&sort=expensive&price=200-5000&view=tile&page=] => Array
+        (
+            [0] => Aurora
+            [1] => 1
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Aurora&sort=expensive&section_id=80025&producer=263&redirected=1&price=200-5000&view=tile&page=] => Array
+        (
+            [0] => Aurora
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=Bollire&producer=159125&view=tile&sort=expensive&class=0&redirected=1&price=225-10000&page=] => Array
+        (
+            [0] => Bollire
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Bomann&section_id=80025&producer=11457&redirected=1&view=tile&page=] => Array
+        (
+            [0] => Bomann
+            [1] => 7
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Clatronic&producer=1149&sort=expensive&redirected=1&price=200-10000&view=tile&page=] => Array
+        (
+            [0] => Clatronic
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=First&section_id=80025&sort=expensive&producer=102311&price=200-5000&view=tile&page=] => Array
+        (
+            [0] => First
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Hilton&section_id=80025&view=tile&sort=expensive&producer=1545&price=200-5000&page=] => Array
+        (
+            [0] => Hilton
+            [1] => 26
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Hilton&sort=expensive&section_id=2394287&producer=1545&redirected=1&price=200-5000&view=tile&page=] => Array
+        (
+            [0] => Hilton
+            [1] => 11
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Julia&section_id=2394287&view=tile&sort=expensive&producer=138014&page=] => Array
+        (
+            [0] => Julia
+            [1] => 1
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=Liberton&view=tile&sort=expensive&class=0&producer=1111&redirected=1&price=200-20000&page=] => Array
+        (
+            [0] => Liberton
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=PETRA&sort=expensive&section_id=80025&producer=121054&price=200-10000&view=tile&page=] => Array
+        (
+            [0] => PETRA
+            [1] => 2
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Polaris&section_id=80025&view=tile&sort=expensive&producer=266&price=200-10000&page=] => Array
+        (
+            [0] => Polaris
+            [1] => 28
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Polaris&sort=expensive&section_id=2394287&producer=266&price=200-5000&view=tile&page=] => Array
+        (
+            [0] => Polaris
+            [1] => 15
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=Princess&section_id=80025&view=tile&sort=expensive&producer=123313&price=509-10000&page=] => Array
+        (
+            [0] => Princess
+            [1] => 8
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=ProfiCare&producer=216120&view=tile&price=355-5000&page=] => Array
+        (
+            [0] => ProfiCare
+            [1] => 6
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=Profi+Cook&view=tile&producer=116728&sort=expensive&price=200-20000&page=] => Array
+        (
+            [0] => ProfiCook
+            [1] => 26
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=STEBA&producer=2849&view=tile&sort=expensive&price=200-25000&page=] => Array
+        (
+            [0] => STEBA
+            [1] => 12
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=Topcom&producer=1411&view=tile&price=200-5000&page=] => Array
+        (
+            [0] => Topcom
+            [1] => 1
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=TRISTAR&section_id=80025&view=tile&sort=expensive&producer=1757&price=200-15000&page=] => Array
+        (
+            [0] => TRISTAR
+            [1] => 1
+        )
+
+    [https://rozetka.com.ua/ua/search/?class=0&text=VES&section_id=80025&view=tile&producer=2238&sort=expensive&price=200-10000&page=] => Array
+        (
+            [0] => VES
+            [1] => 24
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=Vitrinor&producer=174441&view=tile&price=200-5000&page=] => Array
+        (
+            [0] => Vitrinor
+            [1] => 1
+        )
+
+    [https://rozetka.com.ua/ua/search/?section_id=&text=ASTOR&producer=271404&page=] => Array
+        (
+            [0] => ASTOR
+            [1] => 1
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=HAUSLICH&producer=237864&page=] => Array
+        (
+            [0] => HAUSLICH
+            [1] => 2
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=PHILIPPE+RATEK&page=] => Array
+        (
+            [0] => PHILIPPE RATEK
+            [1] => 2
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=SINBO&producer=4665&page=] => Array
+        (
+            [0] => SINBO
+            [1] => 7
+        )
+
+    [https://rozetka.com.ua/ua/search/?text=VERTEX&producer=1279&page=] => Array
+        (
+            [0] => VERTEX
+            [1] => 11
+        )
+
+)
